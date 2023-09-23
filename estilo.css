@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Voltaire&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Cinzel+Decorative&family=Voltaire&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&display=swap');
+
+
+h1{
+    text-align: center;
+    font-family: 'Cinzel Decorative', Times, serif;
+}
+h2{
+    font-family: "Croissant One", Helvetica, sans-serif;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    font-weight: lighter;
+    color: #90c3c8;
+    text-shadow: 1px 1px 0px #a3bbf9a9;
+}
+
+h3{
+    font-family: 'Belleza', Times, serif;
+    font-size: medium;
+    font-weight: bolder;
+}
+li{
+font-family: 'Enriqueta', Times, serif;
+}
+p{
+    font-family: 'Enriqueta', Times, serif;
+}
+body{
+    background-image: linear-gradient(to right, #307473, #a3bcf9)
+}
+main{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #90c3c8;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
